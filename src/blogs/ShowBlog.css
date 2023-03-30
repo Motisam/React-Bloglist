@@ -1,0 +1,20 @@
+.show-blog-container{
+    margin-top: 50px;
+}
+.show-blog-heading{
+    margin-bottom: 50px;
+}
+.blog-row{
+    margin-bottom: 30px;
+    border-bottom: 1px solid gray;
+}
+blog-col-title{
+    font-weight: bold;
+}
+.blog-col-body{
+    padding-left: 30px;
+}
+.blog-time{
+    font-size: small;
+    color: gray;
+}
